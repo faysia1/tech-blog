@@ -17,5 +17,4 @@ The purpose of this site is to view posts on a tech blog and create/edit your ow
 
 ![Screenshot-of-site](./img/Screen%20Shot%202023-11-09%20at%209.56.30%20PM.png)
 
-Here is the deployed link:
-
+Here is the deployed link: https://the-tech-blog-app-ef5618c7cdcb.herokuapp.com/ 
